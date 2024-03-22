@@ -68,5 +68,5 @@ The application is simple, just left and right buttons — content is generated 
 - This repository does not utilize LFS to enable downloading without cloning 😊.
 
 ## License
-This project is licensed under the EUPL License, see the [**LICENSE**](License) file for details.
+This project is licensed under the EUPL License, see the [**LICENSE**](LICENSE) file for details.
 > MyCodeExample was made with Unity®. Unity is a trademark or registered trademark of Unity Technologies
