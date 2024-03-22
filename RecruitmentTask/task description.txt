@@ -1,0 +1,23 @@
+The task is to create a panel displaying data provided by the ServerMock class.
+
+At the same time, the panel can contain up to 5 elements. Upon scene start, the first 5 elements should be displayed.
+The "NEXT" and "PREVIOUS" buttons allow navigation and showing the next set of elements (in increments of 5 elements).
+
+The elements have three categories (RED, GREEN, BLUE). Some of them may be marked as special, in which case they should be highlighted.
+The data remains unchanged during program execution.
+
+UI layout according to the ui_mock.png file:
+- Target/maximum screen size: 1080 x 1920
+- Element width: 900px, separation: 20px, centered layout
+- Element color: #362F65
+- Glow color: #FFF7BD
+- Font: LiberationSans, size: 64 / 48
+- Background dimming: 50%
+
+Evaluation criteria:
+
+* Correctness of operation and compliance with the project
+* Gameplay experience
+* Performance and optimizations
+* Code and Unity project quality and organization
+* Project expandability and susceptibility to changes

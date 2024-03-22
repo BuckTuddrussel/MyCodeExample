@@ -1,0 +1,16 @@
+{
+    "name": "MyCodeExample.Client",
+    "rootNamespace": "MyCodeExample.Client",
+    "references": [
+        "GUID:3bec0c814928253489563412d883c2b5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

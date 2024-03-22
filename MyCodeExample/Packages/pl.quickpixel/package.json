@@ -1,0 +1,19 @@
+{
+  "name": "pl.quickpixel",
+  "version": "1.1.8",
+  "displayName": "QuickPixel",
+  "unity": "2018.1",
+  "keywords": [],
+  "author": {
+    "name": "QuickPixel",
+    "email": "m.karbowiak@frostpixel.net",
+    "url": "https://www.frostpixel.net/"
+  },
+  "repository": {
+    "url": "https://gitlab.frostpixel.net/",
+    "type": "git"
+  },
+  "type": "tool",
+  "hideInEditor": false,
+  "description": "A collection of cut and simplified solutions from my private collection"
+}

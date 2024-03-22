@@ -1,0 +1,21 @@
+{
+    "name": "MyCodeExample.Game",
+    "rootNamespace": "MyCodeExample.Game",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:f4b5b88038830964fb34c6c678250ea5",
+        "GUID:b9df0854d7f70e743b1090ce2949852f",
+        "GUID:17221d49c88ce1d418a7dd41af40cf2c",
+        "GUID:cd4acd2313856d34c8a7f4751db337c8",
+        "GUID:3bec0c814928253489563412d883c2b5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

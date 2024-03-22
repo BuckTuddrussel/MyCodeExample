@@ -1,0 +1,1 @@
+An example of a package containing cut fragments of solutions from my private repositories for the purpose of this example.
